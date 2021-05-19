@@ -1,3 +1,5 @@
+Example project to illustrate https://github.com/micronaut-projects/micronaut-core/issues/5468
+
 ### @MicronautTest / @Mockbean issue with Google Datastore
 
 1. Run `DatastoreMockBeanTest` (eg via `./gradlew test` or just via your IDE) - it passes
